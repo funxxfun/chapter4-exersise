@@ -22,8 +22,7 @@
   display: flex;
   justify-content: center;
 }
-
-.main-left{
+.main-leftside{
   width: 230px;
   height: 1400px;
   background-color:palegreen;
@@ -35,7 +34,7 @@
   background-color: limegreen;
 }
 
-.main-right{
+.main-rightside{
   width: 230px;
   height: 1400px;
   background-color:palegreen;
